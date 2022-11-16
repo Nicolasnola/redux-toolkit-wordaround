@@ -1,4 +1,4 @@
-# CONTADOR 
+# redux-toolkit-wordaround
 
 ![preview]()
 
@@ -6,3 +6,4 @@
 
 -Javascript
 -React-Native
+-Redux Toolkit
