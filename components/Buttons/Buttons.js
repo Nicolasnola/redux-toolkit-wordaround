@@ -1,5 +1,6 @@
 import React from "react";
-import { TouchableOpacity, View, Text } from "react-native";
+import { useState } from "react";
+import { TouchableOpacity, View, Text, TextInput } from "react-native";
 import { useSelector, useDispatch } from "react-redux";
 import {
   increment,
